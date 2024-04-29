@@ -1,0 +1,47 @@
+        body {
+            font-family: Times, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            font-family: Times New Roman, sans-serif;
+            background-color: #E5E5E5;
+            text-align: center;
+            padding: 30px 0;
+        }
+
+        article { 
+        	font-size: 16px;
+            color: #555;
+            text-align: center
+         }
+
+    .img-container {
+        text-align: center;
+        display: block;
+
+      }
+
+        #destacado {
+            display: flex;
+            align-items: center;
+        }
+
+        .destacado-item img {
+            max-width: 100%;
+            height: auto;
+            margin-right: 20px;
+        }
+
+        .destacado-item p {
+            font-size: 16px;
+            color: #555;
+            text-align: center;
+        }
+
+        #recuadro-texto {
+            background-color: #CECECE;
+            padding: 20px;
+        }
+
